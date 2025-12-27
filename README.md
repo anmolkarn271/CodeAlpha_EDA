@@ -1,19 +1,29 @@
-# Task 2 – Exploratory Data Analysis (EDA)
+# CodeAlpha Exploratory Data Analysis (EDA)
 
-## Objective
-Perform exploratory data analysis to identify patterns, trends, and insights from a dataset.
+## Internship Domain
+Data Analytics
 
-## Project Structure
-- data/ : Dataset
-- src/  : Python source code
-- outputs/ : Generated visualizations
+## Task
+Exploratory Data Analysis (EDA)
 
 ## Tools Used
-Python, Pandas, Matplotlib, Seaborn
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+
+## Description
+This project focuses on performing Exploratory Data Analysis (EDA) on a structured dataset to identify meaningful patterns, trends, and insights. The analysis includes data inspection, statistical summaries, and visualizations such as bar charts and correlation heatmaps to support data-driven decision-making.
+
+## Project Structure
+- **data/** – Contains the dataset used for analysis  
+- **src/** – Contains the Python source code for EDA  
+- **outputs/** – Contains generated visualizations and charts  
 
 ## How to Run
-1. Install requirements  
-2. Go to src folder  
-3. Run: python eda.py
-## Outputs
-The `outputs/` folder contains visualizations generated from the EDA process, including subject-wise comparisons and correlation analysis.
+1. Install the required libraries:
+2. Navigate to the `src` folder
+3. Run the script:
+
+## Output
+The `outputs/` folder contains visualization files generated during the EDA process, including subject-wise performance comparisons and correlation analysis heatmaps.
