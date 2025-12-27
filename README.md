@@ -15,3 +15,5 @@ Python, Pandas, Matplotlib, Seaborn
 1. Install requirements  
 2. Go to src folder  
 3. Run: python eda.py
+## Outputs
+The `outputs/` folder contains visualizations generated from the EDA process, including subject-wise comparisons and correlation analysis.
